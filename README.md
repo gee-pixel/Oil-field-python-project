@@ -1,4 +1,4 @@
-Dashboard_table.png# Oil Field Python Projects
+# Oil Field Python Projects
 
 Petroleum Engineering simulations built 100% on Android with Pydroid 3.
 
